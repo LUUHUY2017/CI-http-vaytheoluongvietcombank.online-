@@ -1,0 +1,207 @@
+@media only screen and (min-width: 1700px) {
+
+}
+@media only screen and (max-width: 1500px) {
+
+}
+
+@media only screen and (max-width: 1440px) {
+
+}
+
+@media only screen and (min-width: 1201px) {
+    .container
+    {
+        max-width: 100%!important;
+        width: 100%;
+        padding: 0 80px;
+    }
+    .logo img
+    {
+        width: 200%;
+    }
+    .searchbox
+    {
+        padding: 4% 0%;
+    }
+}
+@media only screen and (max-width: 1199px) {
+    .logo img
+    {
+        width: inherit;
+        height: inherit;
+    }
+    .showgrid
+    {
+        width: 48%!important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+    .anhbiabaiviet img
+    {
+        width: 100%;
+    }
+    .imagebaiviet
+    {
+        height: auto!important;
+    }
+    .imagebaiviet img
+    {
+        height: auto!important;
+    }
+    .tieude h4
+    {
+        padding-left: 19px !important;
+    }
+    .nut-chuyen
+    {
+        margin: 10px 0px 15px 0px;
+        position: relative;
+        height: 20px;
+    }
+    .nut-chuyen:hover
+    {
+        cursor: pointer;
+    }
+    .nut-chuyen .gach
+    {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+    .nut-chuyen .gach:nth-child(1)
+    {
+        position: absolute;
+        top: 5px;
+        right: 10px;
+    }
+    .nut-chuyen .gach:nth-child(3)
+    {
+        position: absolute;
+        top: 15px;
+        right: 10px;
+    }
+    .gach
+    {
+        display: block;
+    }
+    .xoay-45
+    {
+        top: 10px !important;
+        transform: rotate(-45deg);
+    }
+    .xoay45
+    {
+        top: 10px !important;
+        transform: rotate(45deg);
+    }
+    .hide
+    {
+        display: none;
+    }
+    header .row:nth-child(1)
+    {
+        height: auto;
+    }
+    .menu-ngang ul li
+    {
+        float: none;
+        display: none;
+    }
+    .menu-ngang ul
+    {
+        height: 30%;
+    }
+    .slidebar img
+    {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .searchbox
+    {
+        display: none;
+    }
+    .rightmain
+    {
+        padding-left: 0px;
+    }
+    #broadcast
+    {
+        margin-top: 2%;
+    }
+    .chitietbaiviet
+    {
+        font-size: 12px;
+    }
+}
+
+
+
+@media screen and (max-width: 640px) {
+    .leftmain .row:nth-child(2)
+    {
+        display: none;
+    }
+    .imagebaiviet
+    {
+        width: 40%!important;
+    }
+    .tomtatbaiviet
+    {
+        width: 50%!important;
+    }
+    p.noidung
+    {
+        font-size: 11px!important;
+    }
+    .showgrid
+    {
+        width: 99%!important;
+    }
+    .showgrid .imagebaiviet
+    {
+        width: 93%!important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    footer
+    {
+        height: 100%;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+
+    
+}
+@media screen and (max-width: 414px) {
+    .logo
+    {
+        min-height: 40%;
+    }
+    .chuyenmuc .tieude a:nth-child(1)
+    {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+   
+}
+
+
+@media screen and (max-width: 320px) {
+    .chuyenmuc .tieude a:nth-child(1)
+    {
+        font-size: 14px;
+    }
+
+}

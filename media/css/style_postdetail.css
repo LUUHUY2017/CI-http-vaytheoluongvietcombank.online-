@@ -1,0 +1,26 @@
+.motachitiet
+{
+	margin: 20px 0px!important;
+	width: 100%;
+}
+.chitietbaiviet
+{
+	padding: 10px;
+}
+.motachitiet .control
+{
+	padding: 15px 0px;
+}
+
+.motachitiet .form-group
+{
+	width: 100%;
+	padding: 0px 20px;
+	text-transform: uppercase;
+}
+
+.motachitiet .chitietbaiviet img
+{
+	width: 100%!important;
+	height: auto!important;
+}
